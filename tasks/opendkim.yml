@@ -121,3 +121,4 @@
     name: opendkim
     state: started
     enabled: yes
+  ignore_errors: True
